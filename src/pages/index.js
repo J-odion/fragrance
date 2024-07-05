@@ -4,10 +4,10 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Features from "@/components/Features";
 import Products from "@/components/Product";
-import Footer from "@/components/footer";
 import Popular from "@/components/Popular";
 import Overview from "@/components/overview";
 import Ourclients from "@/components/Ourclient";
+import Footer from "@/components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
